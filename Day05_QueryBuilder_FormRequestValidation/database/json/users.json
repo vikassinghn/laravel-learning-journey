@@ -1,0 +1,27 @@
+[
+    { 
+    
+        "name" : "Yahoo Baba",
+        "email" : "yahoobaba@gmail.com" ,
+        "age" : 20,
+        "city" : "Delhi"
+    },
+    {
+        "name" : "Salman Khan",
+        "email" : "salman@gmail.com",
+         "age" : 22,
+        "city" : "Mumbai"
+    },
+    {
+        "name" : "Amitabh Bachan",
+        "email" : "amitabh@gmail.com",
+        "age" : 40,
+        "city" : "Lucknow"
+    },
+     {
+        "name" : "Shahid Kapoor",
+        "email" : "shahid@gmail.com",
+        "age" : 38,
+        "city" : "Delhi"
+    }
+]

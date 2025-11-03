@@ -1,0 +1,19 @@
+[
+    { 
+    
+        "name" : "Yahoo Baba",
+        "email" : "yahoobaba@gmail.com"
+    },
+    {
+    "name" : "Salman Khan",
+        "email" : "salman@gmail.com"
+    },
+    {
+        "name" : "Amitabh Bachan",
+        "email" : "amitabh@gmail.com"
+    },
+     {
+        "name" : "Shahid Kapoor",
+        "email" : "shahid@gmail.com"
+    }
+]
