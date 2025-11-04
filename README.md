@@ -14,6 +14,8 @@ Each folder in this repository represents a day’s learning topic and hands-on 
 | 3 | CRUD using Eloquent ORM | Implemented Create, Read, Update, and Delete operations using Laravel’s Eloquent ORM with Blade templates. | [Day03_Eloquent_ORM_CRUD](./Day03_Eloquent_ORM_CRUD) |
 | 4 | Eloquent Model Conventions | Learned about Laravel’s Eloquent model naming conventions, table mapping, primary key rules, and timestamps handling. | [Day04_Model_Conventions](./Day04_Model_Conventions) |
 | 5 | Query Builder & Form Request Validation | Learned Laravel’s Query Builder for complex database queries and implemented Form Request validation for cleaner, reusable validation logic. | [Day05_QueryBuilder_FormRequestValidation](./Day05_QueryBuilder_FormRequestValidation) |
+| 6 | One-to-One Relationship | Implemented one-to-one relationship between models using `hasOne` and `belongsTo` methods in Eloquent ORM. | [Day06_OneToOne_Relationship](./Day06_OneToOne_Relationship) |
+| 6 | One-to-Many Relationship | Implemented one-to-many relationship between models using `hasMany` and `belongsTo` methods with practical examples. | [Day06_OneToMany_Relationship](./Day06_OneToMany_Relationship) |
 
 
 > ⚙️ *More days will be added as I continue my journey!*
