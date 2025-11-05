@@ -16,6 +16,8 @@ Each folder in this repository represents a day’s learning topic and hands-on 
 | 5 | Query Builder & Form Request Validation | Learned Laravel’s Query Builder for complex database queries and implemented Form Request validation for cleaner, reusable validation logic. | [Day05_QueryBuilder_FormRequestValidation](./Day05_QueryBuilder_FormRequestValidation) |
 | 6 | One-to-One Relationship | Implemented one-to-one relationship between models using `hasOne` and `belongsTo` methods in Eloquent ORM. | [Day06_OneToOne_Relationship](./Day06_OneToOne_Relationship) |
 | 6 | One-to-Many Relationship | Implemented one-to-many relationship between models using `hasMany` and `belongsTo` methods with practical examples. | [Day06_OneToMany_Relationship](./Day06_OneToMany_Relationship) |
+| 7 | Has One Through Relationship | Learned how to define indirect one-to-one relationships using `hasOneThrough` to connect models through intermediate relationships. | [Day07_HasOneThrough_Relationship](./Day07_HasOneThrough_Relationship) |
+| 7 | One-to-One Polymorphic Relationship | Implemented polymorphic one-to-one relationships to allow multiple models to share a single related model (e.g., image, profile). | [Day07_OneToOne_Polymorphic_Relationship](./Day07_OneToOne_Polymorphic_Relationship) |
 
 
 > ⚙️ *More days will be added as I continue my journey!*
