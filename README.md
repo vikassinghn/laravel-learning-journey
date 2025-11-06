@@ -18,6 +18,8 @@ Each folder in this repository represents a day’s learning topic and hands-on 
 | 6 | One-to-Many Relationship | Implemented one-to-many relationship between models using `hasMany` and `belongsTo` methods with practical examples. | [Day06_OneToMany_Relationship](./Day06_OneToMany_Relationship) |
 | 7 | Has One Through Relationship | Learned how to define indirect one-to-one relationships using `hasOneThrough` to connect models through intermediate relationships. | [Day07_HasOneThrough_Relationship](./Day07_HasOneThrough_Relationship) |
 | 7 | One-to-One Polymorphic Relationship | Implemented polymorphic one-to-one relationships to allow multiple models to share a single related model (e.g., image, profile). | [Day07_OneToOne_Polymorphic_Relationship](./Day07_OneToOne_Polymorphic_Relationship) |
+| 8 | One-to-Many Polymorphic Relationship | Implemented one-to-many polymorphic relationships where multiple models share a single related model type (e.g., comments on posts and videos). | [Day08_OneToMany_Polymorphic_Relationship](./Day08_OneToMany_Polymorphic) |
+| 8 | Many-to-Many Polymorphic Relationship | Learned how to build flexible many-to-many polymorphic relationships, allowing models to be related through a pivot table (e.g., tags on posts and videos). | [Day08_ManyToMany_Polymorphic_Relationship](./Day08_ManyToMany_Polymorphic) |
 
 
 > ⚙️ *More days will be added as I continue my journey!*
