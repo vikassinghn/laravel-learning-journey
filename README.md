@@ -22,6 +22,7 @@ Each folder in this repository represents a day’s learning topic and hands-on 
 | 8 | Many-to-Many Polymorphic Relationship | Learned how to build flexible many-to-many polymorphic relationships, allowing models to be related through a pivot table (e.g., tags on posts and videos). | [Day08_ManyToMany_Polymorphic_Relationship](./Day08_ManyToMany_Polymorphic) |
 | 9 | JSON Data Handling | Learned how to store, retrieve, and manipulate JSON data using Eloquent’s casting, accessors, and mutators. | [Day09_JSON_Data_Handling](./Day09_JSON_Data_Handling) |
 | 9 | Model Events | Implemented Eloquent model events (`creating`, `updating`, `deleting`, etc.) to perform actions automatically during model lifecycle. | [Day09_Model_Events](./Day09_Model_Events) |
+| 10 | Query Scopes | Learned how to define global and local query scopes to simplify repetitive query logic and improve model readability. | [Day10_Query_Scope](./Day10_Query_Scope) |
 
 
 > ⚙️ *More days will be added as I continue my journey!*
