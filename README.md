@@ -24,6 +24,7 @@ Each folder in this repository represents a day’s learning topic and hands-on 
 | 9 | Model Events | Implemented Eloquent model events (`creating`, `updating`, `deleting`, etc.) to perform actions automatically during model lifecycle. | [Day09_Model_Events](./Day09_Model_Events) |
 | 10 | Query Scopes | Learned how to define global and local query scopes to simplify repetitive query logic and improve model readability. | [Day10_Query_Scope](./Day10_Query_Scope) |
 | 11 | Testing Relationships | Tested various Eloquent relationships (one-to-one, one-to-many, polymorphic, and through) to verify their data consistency and eager loading behavior. | [Day11_Test_Some_Relationships](./Day11_Test_Some_Relationships) |
+| 12 | Accessors & Mutators | Learned how to define custom getters (accessors) and setters (mutators) to format attributes automatically when retrieving or saving data in Eloquent models. | [Day12_Accessors_Mutators](./Day12_Accessors_Mutators) |
 
 
 > ⚙️ *More days will be added as I continue my journey!*
