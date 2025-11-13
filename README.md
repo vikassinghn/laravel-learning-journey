@@ -23,9 +23,11 @@ Each folder in this repository represents a day’s learning topic and hands-on 
 | 9 | JSON Data Handling | Learned how to store, retrieve, and manipulate JSON data using Eloquent’s casting, accessors, and mutators. | [Day09_JSON_Data_Handling](./Day09_JSON_Data_Handling) |
 | 9 | Model Events | Implemented Eloquent model events (`creating`, `updating`, `deleting`, etc.) to perform actions automatically during model lifecycle. | [Day09_Model_Events](./Day09_Model_Events) |
 | 10 | Query Scopes | Learned how to define global and local query scopes to simplify repetitive query logic and improve model readability. | [Day10_Query_Scope](./Day10_Query_Scope) |
+| 11 | File Upload | Implemented single & multiple file uploads, validation, storage linking, and secure file handling. | [Day11_File_Upload](./Day11_File_Upload) |
 | 11 | Testing Relationships | Tested various Eloquent relationships (one-to-one, one-to-many, polymorphic, and through) to verify their data consistency and eager loading behavior. | [Day11_Test_Some_Relationships](./Day11_Test_Some_Relationships) |
 | 12 | Accessors & Mutators | Learned how to define custom getters (accessors) and setters (mutators) to format attributes automatically when retrieving or saving data in Eloquent models. | [Day12_Accessors_Mutators](./Day12_Accessors_Mutators) |
 | 13 | Blade Components | Learned how to create and use reusable Blade components and layouts for modular, maintainable, and dynamic UI development. | [Day13_Components](./Day13_Components) |
+| 14 | Authentication | Implemented user authentication (Login, Register, Logout), session handling, password hashing, and route protection via middleware. | [Day14_Authentication](./Day14_Authentication) |
 
 
 > ⚙️ *More days will be added as I continue my journey!*
