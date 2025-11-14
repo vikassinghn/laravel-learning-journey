@@ -28,6 +28,7 @@ Each folder in this repository represents a day’s learning topic and hands-on 
 | 12 | Accessors & Mutators | Learned how to define custom getters (accessors) and setters (mutators) to format attributes automatically when retrieving or saving data in Eloquent models. | [Day12_Accessors_Mutators](./Day12_Accessors_Mutators) |
 | 13 | Blade Components | Learned how to create and use reusable Blade components and layouts for modular, maintainable, and dynamic UI development. | [Day13_Components](./Day13_Components) |
 | 14 | Authentication | Implemented user authentication (Login, Register, Logout), session handling, password hashing, and route protection via middleware. | [Day14_Authentication](./Day14_Authentication) |
+| 15 | Session Project | Built a project using Laravel session handling, flash messages, and managing session-based state across requests. | [Day15_Session_Project](./Day15_Session_Project) |
 
 
 > ⚙️ *More days will be added as I continue my journey!*
