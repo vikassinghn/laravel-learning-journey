@@ -29,6 +29,9 @@ Each folder in this repository represents a day’s learning topic and hands-on 
 | 13 | Blade Components | Learned how to create and use reusable Blade components and layouts for modular, maintainable, and dynamic UI development. | [Day13_Components](./Day13_Components) |
 | 14 | Authentication | Implemented user authentication (Login, Register, Logout), session handling, password hashing, and route protection via middleware. | [Day14_Authentication](./Day14_Authentication) |
 | 15 | Session Project | Built a project using Laravel session handling, flash messages, and managing session-based state across requests. | [Day15_Session_Project](./Day15_Session_Project) |
+| 16 | Gates (Authorization) | Learned how to use Laravel Gates for user authorization, checking permissions, and protecting routes/resources based on conditions. | [Day16_Gates](./Day16_Gates) |
+| 17–19 | Sanctum API | Built secure APIs using Laravel Sanctum, including token-based authentication, SPA tokens, API routes, and protected CRUD operations. | [Day17-19_Sanctum_API](./Day17-19_Sanctum_API) |
+| 20 | Email Sending | Implemented email functionality using Laravel Mail, including Mailable classes, email views, and mail configuration. | [Day20_Email_Sending](./Day20_Email_Sending) |
 
 
 > ⚙️ *More days will be added as I continue my journey!*
